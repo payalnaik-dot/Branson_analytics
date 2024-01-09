@@ -1,2 +1,2 @@
 # Branson_analytics
-this is where I am predicting stensile strength of object 
+this is project where I am predicting stensile strength of object 
